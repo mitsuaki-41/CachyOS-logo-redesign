@@ -1,5 +1,5 @@
 # CachyOS-logo-redesign  
-A fan-made CachyOS logo  
+Fan-made CachyOS logo redesigns 
 
 <br />
   <div align="center">
